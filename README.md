@@ -1,2 +1,2 @@
 # ekki
-Stock purchases python app
+Stock purchases app
